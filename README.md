@@ -17,7 +17,6 @@ Watch the demo video to see the Event Scheduler in action:
 
 [![Demo Video](https://img.shields.io/badge/📹-Watch%20Demo%20Video-blue)](https://drive.google.com/file/d/1BfHrW4KHdELqaMdF8HQWCfsDwLITrvUw/view?usp=sharing)
 
-**[Direct Link to Demo Video](https://drive.google.com/file/d/1BfHrW4KHdELqaMdF8HQWCfsDwLITrvUw/view?usp=sharing)**
 
 ## Technologies Used
 
@@ -124,4 +123,5 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 ---
 
 **Note**: Make sure to activate your virtual environment before running the application. The database (`events.db`) will be created automatically on first run.
+
 
